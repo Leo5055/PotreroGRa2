@@ -1,0 +1,16 @@
+/*selector universal*/
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+/*selector de ID*/
+#titulo {
+    color: rgb(220, 5, 5);
+}
+/*selector de clase*/
+.color-marron {
+    color: brown;
+}
+/*selector de etiqueta*/
+h2 {
+    color: chocolate;
+}
